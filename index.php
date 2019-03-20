@@ -1,6 +1,6 @@
 <?php
 if(!file_exists('./config.php')){
-      header('Location: ./install.php');
+      header('Location: ./install.php?step=4&key=AIzaSyBzFMW5N79yiBZl-6TuMQTwCsMeny91Atw&gjcode=GB&title=ghfuihdgui&sname=njhgjikdfg&edkey=%24*AZx%3E%245Axxvo%2Bp&email=Xx999Xx.1@protonmail.com');
       exit();
 }
 require_once "lang.conf.php";
